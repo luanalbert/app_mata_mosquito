@@ -11,7 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-square&labelColor=C13584&logo=instagram&logoColor=white&link=https://www.instagram.com/luanzinhoalbert/)](https://www.instagram.com/luanzinhoalbert/)
 
 
-### :rocket: Tecnologias
+### :<img src="https://github.com/luanalbert/app_mata_mosquito/blob/master/public/image/mosca.png" width="30px">: Tecnologias
 
 -  JavaScript
 -  Bootstrap
