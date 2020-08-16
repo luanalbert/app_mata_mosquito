@@ -2,7 +2,7 @@
 
 <h1 align="center"> App Mata Mosquito </h1>
 <h2 align="center">
-    <img alt="Mata Mosquito" src="" height="100px" />
+    <img alt="" src="https://github.com/luanalbert/app_mata_mosquito/blob/master/public/image/capa.jpg" widtht="100px" />
 </h2>
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/lucasgdb)](https://github.com/luanalbert)
