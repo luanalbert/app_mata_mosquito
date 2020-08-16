@@ -13,7 +13,7 @@
 
 ### :rocket: Tecnologias
 
--  [JavaScript]
--  [Bootstrap]
--  [HTML]
--  [CSS]
+-  JavaScript
+-  Bootstrap
+-  HTML
+-  CSS
